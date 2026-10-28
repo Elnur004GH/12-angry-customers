@@ -1,0 +1,158 @@
+[
+  {
+    "id": "explorer",
+    "name": "Explorer",
+    "traits": {
+      "technical_skill": 95,
+      "impatience": 30,
+      "willingness_to_pay": 65,
+      "curiosity": 95,
+      "skepticism": 25,
+      "persistence": 90,
+      "guidance_need": 10
+    }
+  },
+  {
+    "id": "rusher",
+    "name": "Busy pragmatist",
+    "traits": {
+      "technical_skill": 70,
+      "impatience": 95,
+      "willingness_to_pay": 85,
+      "curiosity": 20,
+      "skepticism": 40,
+      "persistence": 20,
+      "guidance_need": 20
+    }
+  },
+  {
+    "id": "novice",
+    "name": "Cautious novice",
+    "traits": {
+      "technical_skill": 10,
+      "impatience": 35,
+      "willingness_to_pay": 30,
+      "curiosity": 45,
+      "skepticism": 90,
+      "persistence": 35,
+      "guidance_need": 95
+    }
+  },
+  {
+    "id": "skeptic",
+    "name": "Independent skeptic",
+    "traits": {
+      "technical_skill": 85,
+      "impatience": 65,
+      "willingness_to_pay": 45,
+      "curiosity": 65,
+      "skepticism": 95,
+      "persistence": 75,
+      "guidance_need": 5
+    }
+  },
+  {
+    "id": "budget",
+    "name": "Curious budget shopper",
+    "traits": {
+      "technical_skill": 40,
+      "impatience": 50,
+      "willingness_to_pay": 5,
+      "curiosity": 90,
+      "skepticism": 60,
+      "persistence": 65,
+      "guidance_need": 65
+    }
+  },
+  {
+    "id": "first_timer",
+    "name": "First-time digital user",
+    "traits": {
+      "technical_skill": 0,
+      "impatience": 40,
+      "willingness_to_pay": 35,
+      "curiosity": 35,
+      "skepticism": 65,
+      "persistence": 40,
+      "guidance_need": 100
+    }
+  },
+  {
+    "id": "expert",
+    "name": "Technical expert",
+    "traits": {
+      "technical_skill": 100,
+      "impatience": 70,
+      "willingness_to_pay": 60,
+      "curiosity": 80,
+      "skepticism": 85,
+      "persistence": 95,
+      "guidance_need": 0
+    }
+  },
+  {
+    "id": "loyal",
+    "name": "Patient returning customer",
+    "traits": {
+      "technical_skill": 55,
+      "impatience": 10,
+      "willingness_to_pay": 75,
+      "curiosity": 30,
+      "skepticism": 20,
+      "persistence": 95,
+      "guidance_need": 35
+    }
+  },
+  {
+    "id": "premium",
+    "name": "Demanding premium customer",
+    "traits": {
+      "technical_skill": 75,
+      "impatience": 85,
+      "willingness_to_pay": 100,
+      "curiosity": 45,
+      "skepticism": 65,
+      "persistence": 40,
+      "guidance_need": 15
+    }
+  },
+  {
+    "id": "distracted",
+    "name": "Distracted user",
+    "traits": {
+      "technical_skill": 45,
+      "impatience": 75,
+      "willingness_to_pay": 40,
+      "curiosity": 70,
+      "skepticism": 35,
+      "persistence": 25,
+      "guidance_need": 60
+    }
+  },
+  {
+    "id": "privacy",
+    "name": "Privacy-conscious customer",
+    "traits": {
+      "technical_skill": 65,
+      "impatience": 45,
+      "willingness_to_pay": 55,
+      "curiosity": 50,
+      "skepticism": 100,
+      "persistence": 70,
+      "guidance_need": 40
+    }
+  },
+  {
+    "id": "goal_only",
+    "name": "Single-goal customer",
+    "traits": {
+      "technical_skill": 35,
+      "impatience": 60,
+      "willingness_to_pay": 50,
+      "curiosity": 0,
+      "skepticism": 50,
+      "persistence": 80,
+      "guidance_need": 70
+    }
+  }
+]

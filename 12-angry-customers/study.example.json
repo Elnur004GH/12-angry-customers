@@ -1,0 +1,10 @@
+{
+  "url": "https://example.com",
+  "goal": "Find a suitable plan and explain its total price",
+  "price_context": "Set actual price and value before interpreting willingness to pay",
+  "max_steps": 30,
+  "viewport": {
+    "width": 390,
+    "height": 844
+  }
+}
